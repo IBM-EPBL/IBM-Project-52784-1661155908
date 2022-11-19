@@ -1,7 +1,0 @@
-temperature int(input("enter temperature"))
-humidity 58
-while(temperature>103):
-print("alar")
-temperature temperature+1
-if(temperature<=183):
-print("stop")
